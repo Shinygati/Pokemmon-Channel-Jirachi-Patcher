@@ -114,4 +114,4 @@ py patch_channel_iso.py "Channel (Jirachi patched).iso" --undo --out "Channel or
 
 ## Disclaimer
 
-This project is not affiliated with Nintendo, The Pokémon Company, Game Freak or Ambrella. It contains no copyrighted game data and only works on a disc image you supply. Please dump your own disc.
+Use your own legally obtained game dumps. This tool is only for patching your own copies of the games, and it is not affiliated with Nintendo, The Pokémon Company or Game Freak.
